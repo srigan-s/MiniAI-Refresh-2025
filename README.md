@@ -18,6 +18,7 @@ Project MiniAI Refresh is a modern web application built using the [Vite](https:
 - [ESLint](https://eslint.org/) - Linter for code quality
 - [PostCSS](https://postcss.org/) - CSS transformation tool
 
+## 📸 Preview
 ![image](https://github.com/user-attachments/assets/7282e8a2-c10c-46c5-886a-3a0e2f068762)
 
 
